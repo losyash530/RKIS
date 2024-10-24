@@ -1,0 +1,16 @@
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\bin\Debug\net5.0\A.exe
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\bin\Debug\net5.0\A.deps.json
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\bin\Debug\net5.0\A.runtimeconfig.json
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\bin\Debug\net5.0\A.runtimeconfig.dev.json
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\bin\Debug\net5.0\A.dll
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\bin\Debug\net5.0\ref\A.dll
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\bin\Debug\net5.0\A.pdb
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\obj\Debug\net5.0\A.csprojAssemblyReference.cache
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\obj\Debug\net5.0\A.GeneratedMSBuildEditorConfig.editorconfig
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\obj\Debug\net5.0\A.AssemblyInfoInputs.cache
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\obj\Debug\net5.0\A.AssemblyInfo.cs
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\obj\Debug\net5.0\A.csproj.CoreCompileInputs.cache
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\obj\Debug\net5.0\A.dll
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\obj\Debug\net5.0\ref\A.dll
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\obj\Debug\net5.0\A.pdb
+Z:\3 курс ИС\РКИС\3832\Путинцева София\RKIS\Занятие 2\Практические задания\!ProgramTasks\A\obj\Debug\net5.0\A.genruntimeconfig.cache

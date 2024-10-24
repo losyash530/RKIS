@@ -1,4 +1,4 @@
-﻿using System;
+﻿using static System.Net.Mime.MediaTypeNames;
 
 namespace D
 {
@@ -6,10 +6,40 @@ namespace D
     {
         static void Main(string[] args)
         {
-            double amount = 1.11; //количество биткоинов от одного человека
-            int peopleCount = 60; // количество человек
-            int totalMoney = (int)Math.Round(amount * peopleCount); // ← исправьте ошибку в этой строке
-            Console.WriteLine(totalMoney);
+            Test(true, "boss", 150);
+            Test(true, "boss", 30);
+            Test(true, "boss", 70);
+            Test(false, "boss", 14);
+            Test(true, "bot", 90);
+            Test(false, "bot", 100000);
+        }
+
+        public static void Test(bool enemyInFront, string enemyName, int robotHealth)
+        {
+            Console.WriteLine(ShouldFire(enemyInFront, enemyName, robotHealth) == ShouldFire2(enemyInFront, enemyName, robotHealth));
+        }
+
+        public static bool ShouldFire(bool enemyInFront, string enemyName, int robotHealth)
+        {
+            bool shouldFire = true;
+            if (enemyInFront == true)
+            {
+                if (enemyName == "boss")
+                {
+                    if (robotHealth < 50) shouldFire = false;
+                    if (robotHealth > 100) shouldFire = true;
+                }
+            }
+            else
+            {
+                return false;
+            }
+            return shouldFire;
+        }
+
+        public static bool ShouldFire2(bool enemyInFront, string enemyName, int robotHealth)
+        {
+            return enemyInFront && (...);
         }
     }
 }
