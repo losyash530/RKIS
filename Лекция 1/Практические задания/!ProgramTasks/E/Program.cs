@@ -1,12 +1,15 @@
-﻿namespace E
+﻿using System;
+
+namespace D
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string doubleNumber = "894376.243643";
-            int number = doubleNumber; // Вася уверен, что ошибка где-то тут
-            Console.WriteLine(number + 1);
+            double amount = 1.11; //количество биткоинов от одного человека
+            int peopleCount = 60; // количество человек
+            int totalMoney = (int)Math.Round(amount * peopleCount); // ← исправьте ошибку в этой строке
+            Console.WriteLine(totalMoney);
         }
     }
 }
